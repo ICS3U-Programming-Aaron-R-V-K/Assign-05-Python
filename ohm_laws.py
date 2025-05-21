@@ -1,6 +1,6 @@
 # !/usr/bin/env python3
 # Created By: Aaron Rivelino
-# Date: April 19, 2025
+# Date: May 19, 2025
 # This is an Ohm's law calculator that gets the resistance, voltage ,and current, depending on what the user wants
 # It uses different functions for each option
 # It gets all the user input in the main
