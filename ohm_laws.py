@@ -12,7 +12,7 @@ def calculate_current(voltage, resistance):
 
 
 # Function to calculate resistance: R = V / I
-def calculate_resistance(voltage, current=1.0):
+def calculate_resistance(voltage, current):
     return voltage / current
 
 
